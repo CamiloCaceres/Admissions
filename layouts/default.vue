@@ -4,22 +4,21 @@ const links = [{
   icon: 'i-heroicons-pencil-square-solid',
   to: '/notes'
 }, {
-  label: 'Playground',
+  label: 'Templates',
   icon: 'i-simple-icons-stackblitz',
-  to: '/playground'
+  to: '/templates'
 }, {
-  label: 'Roadmap',
+  label: 'Conditions',
   icon: 'i-heroicons-map',
-  to: '/roadmap'
+  to: '/conditions'
 }, {
-  label: 'Pro',
+  label: 'Step by Step',
   icon: 'i-heroicons-square-3-stack-3d',
   to: '/pro'
 }, {
-  label: 'Releases',
+  label: 'Checklists',
   icon: 'i-heroicons-rocket-launch',
-  to: 'https://github.com/nuxt/ui/releases',
-  target: '_blank'
+  to: '/checklist',
 }]
 
 
